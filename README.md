@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from Vietnam</h3>
 <img align="right" alt="Coding" width="400" <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lai-tan-duy&label=Profile%20views&color=0e75b6&style=flat" alt="lai-tan-duy" /> </p>
-<p align="left"> <a href="https://laitanduy.github.io/Lai_Tan_Duy.github.io/" target="blank"><img src="https://img.shields.io/twitter/url?color=White&label=Follow%20me&logo=D&logoColor=blue&style=social&url=https%3A%2F%2Flaitanduy.github.io%2FLai_Tan_Duy.github.io%2F" alt="Lại Tấn Duy" /></a> </p>
+<p align="left"> <a href="https://laitanduy.github.io/DY.DEV.github.io/" target="blank"><img src="https://img.shields.io/twitter/url?color=White&label=Follow%20me&logo=D&logoColor=blue&style=social&url=https%3A%2F%2Flaitanduy.github.io%2FLai_Tan_Duy.github.io%2F" alt="Lại Tấn Duy" /></a> </p>
 <p align="left"> <a href="https://twitter.com/tanduy17062001" target="blank"><img src="https://img.shields.io/twitter/follow/tanduy17062001?logo=twitter&style=for-the-badge" alt="LAI TAN DUY" /></a> </p>
 - 💬 Ask me about **HTML,CSS,JAVASCRIP**
 
