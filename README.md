@@ -1,4 +1,4 @@
-[![MasterHead](https://www.digitalsolutionservices.com/img/services/website1.gif)](https://laitanduy.github.io/Lai_Tan_Duy.github.io/)
+[![MasterHead](https://www.digitalsolutionservices.com/img/services/website1.gif)(https://laitanduy.github.io/Lai_Tan_Duy.github.io/)
 <h1 align="center">Hi 👋, I'm LẠI TẤN DUY</h1>
 <h3 align="center">A passionate frontend developer from Vietnam</h3>
 <img align="right" alt="Coding" width="400" <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
