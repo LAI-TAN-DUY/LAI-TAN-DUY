@@ -1,4 +1,5 @@
 [![MasterHead](https://www.digitalsolutionservices.com/img/services/website1.gif)](https://laitanduy.github.io/Lai_Tan_Duy.github.io/)
+<a href="https://app.daily.dev/DYDY"><img src="https://api.daily.dev/devcards/d4abf53d385d40aea421d7bc3f810ba5.png?r=90z" width="400" alt="Tấn Duy's Dev Card"/></a>
 <h1 align="center">Hi 👋, I'm LẠI TẤN DUY</h1>
 <h3 align="center">A passionate frontend developer from Vietnam</h3>
 <img align="right" alt="Coding" width="400" <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
